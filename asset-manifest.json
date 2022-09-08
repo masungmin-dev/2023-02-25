@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/invi/static/css/main.52e54fd3.css",
+    "main.js": "/invi/static/js/main.4891a873.js",
+    "index.html": "/invi/index.html",
+    "main.52e54fd3.css.map": "/invi/static/css/main.52e54fd3.css.map",
+    "main.4891a873.js.map": "/invi/static/js/main.4891a873.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.52e54fd3.css",
+    "static/js/main.4891a873.js"
+  ]
+}
